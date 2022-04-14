@@ -1,2 +1,21 @@
 # Deep_Learning_From_Scratch_02
-This is a project from chapter 2 of Deep Learning From Scratch
+
+밑바닥부터 시작하는 딥러닝: 파이썬으로 익히는 딥러닝 이론과 구현 챕터 2부분 코드를 치면서 공부를 하였고 아래 제 노션 링크에는 제가 챕터 2부분에 해당하는 개념들을 정리한 링크입니다.
+
+
+## 목차
+* 퍼셉트론이란?
+* 논리회로 종류와 설명
+  * AND 게이트
+  * NAND 게이트
+  * OR 게이트
+  * 매개변수의 중요성(가중치와 임계값)
+* 퍼셉트론의 한계 XOR 게이트 설명
+  * 퍼셉트론의 한계성
+  * 다중퍼셉트론으로 XOR게이트 풀기
+
+
+
+
+## 출처
+제 노션: [노션 url](https://www.notion.so/Chapter2-b7868e7911e34b23ad762843bf077a94)
